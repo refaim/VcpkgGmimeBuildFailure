@@ -1,4 +1,4 @@
-#include <gmime.h>
+#include <gmime\gmime.h>
 
 int main()
 {
